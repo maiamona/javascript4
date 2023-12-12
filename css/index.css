@@ -4,6 +4,10 @@
 
 }
 
+#buscar-pacientes, #adicionar-paciente{
+	width: 100%;
+}
+
 *{
 	box-sizing: border-box;
  }
